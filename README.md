@@ -17,16 +17,6 @@ A simple and fully customizable React Native components that provides a status/s
 
 <br>
 
-## Spread Your ❤️:
-
-[![GitHub followers](https://img.shields.io/github/followers/iguilhermeluis.svg?style=social&label=Follow)](https://github.com/iguilhermeluis) [![Twitter Follow](https://img.shields.io/twitter/follow/gldesenvolvedor.svg?style=social)](https://twitter.com/gldesenvolvedor)
-<br>
-
-## Demo
-
- <img src='https://github.com/iguilhermeluis/react-native-stories-media/blob/main/demo/demo.gif?raw=true' height=480 width=270 />
-
-<br>
 
 ## Screenshots
 
@@ -41,27 +31,23 @@ A simple and fully customizable React Native components that provides a status/s
 If using yarn:
 
 ```
-yarn add react-native-stories-media
+yarn add react-native-stories-instagram
 ```
 
 If using npm:
 
 ```
-npm i react-native-stories-media
+npm i react-native-stories-instagram
 ```
 
 <br>
-
-## Usage
-
-For example code, <a href='https://github.com/iguilhermeluis/react-native-stories-media/blob/main/demo/index.tsx'><b>Click here</b></a>
 
 #### Basic Usage
 
 ```js
 import React from "react";
 import { View } from "react-native";
-import Stories from "react-native-stories-media";
+import Stories from "react-native-stories-instagram";
 
 const data = [
   {
@@ -215,13 +201,3 @@ export default function Demo() {
   );
 }
 ```
-
-## About Me
-
-## Guilherme Luis Faustino
-
-_Hi, I'm Guilherme Luis. I've been working as Front-End Developer since 2009. I'm passionate about open source projects, I believe that the dissemination of knowledge and good ideas inspires and improves the world._
-
-For more exciting updates follow me,
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/gldesenvolvedor.svg?style=social)](https://twitter.com/gldesenvolvedor)
